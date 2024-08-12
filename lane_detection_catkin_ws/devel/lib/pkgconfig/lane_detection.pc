@@ -1,0 +1,8 @@
+prefix=/home/paavan/lane_detection_catkin_ws/devel
+
+Name: lane_detection
+Description: Description of lane_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
