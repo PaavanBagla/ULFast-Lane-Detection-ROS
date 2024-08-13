@@ -12,7 +12,7 @@ pip install torch
 pip install torchvision
 
 ```
-If needed: pip install scipy numpy opencv-python pillow
+If needed: pip install scipy numpy pillow
 
 # Verify Installation for pip3
 ```
