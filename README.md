@@ -2,7 +2,7 @@
 Ultra Fast Lane Detection Integrated with ROS1
 
  # [Rosbag Data video Example] 
-![WhatsAppVideo2024-08-12at9 51 50PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9a6d792f-3971-4d36-9cba-af5e50d33676)
+![WhatsAppVideo2024-08-12at9 51 50PM-ezgif com-crop](https://github.com/user-attachments/assets/02d1fc0b-983a-41a9-8285-07db2fa2bcaa)
 
 # Installation
 ```
