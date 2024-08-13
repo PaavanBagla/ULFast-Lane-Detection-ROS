@@ -14,6 +14,7 @@ Optional: // pip install scipy numpy opencv-python pillow
 
 # Verify Installation for pip3
 pip3 install -r requirements.txt
+
 pip3 install yt-dlp
 
 # PreTrained Models
