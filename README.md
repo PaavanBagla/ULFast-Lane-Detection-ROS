@@ -21,3 +21,13 @@ pip3 install yt-dlp
 Download the pretrained model from https://github.com/cfzd/Ultra-Fast-Lane-Detection repository.
 
 Then create a "models" folder in the /lane_detection_catkin_ws/src/lane_detection and /Ultrafast-Lane-Detection-Inference-Pytorch- directories and then save both the .pth files in the models folder.
+
+# Cmake and Source
+1. cd ~/lane_detection_catkin_ws
+2. catkin_make
+3. source devel/setup.bash
+   
+# ROS
+1. Verify sourcing: cd ~/lane_detection_catkin_ws
+2. In the same terminal run: roslaunch lane_detection lane_detection.launch
+3. Then play your rosbag/ run the nodes. such that it publishes /resized/camera_fl/image_color topic
