@@ -2,14 +2,14 @@
 Ultra Fast Lane Detection Integrated with ROS1
 
 # Installation
+```
+
 pip install -r requirements.txt
-
 pip install yt-dlp
-
 pip install torch 
+pip install torchvision
 
-pip install torchvision 
-
+```
 Optional: // pip install scipy numpy opencv-python pillow
 
 # Verify Installation for pip3
