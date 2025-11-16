@@ -3,11 +3,8 @@ Ultra Fast Lane Detection Integrated with ROS1
 
  # Rosbag Data video Example 
 ![WhatsAppVideo2024-08-12at9 51 50PM-ezgif com-crop](https://github.com/user-attachments/assets/02d1fc0b-983a-41a9-8285-07db2fa2bcaa)
-![WhatsAppVideo2024-08-12at9 51 50PM-ezgif com-crop](https://github.com/user-attachments/assets/3c7b40f7-1d1d-451e-b211-20144c8ec2f0)
 
-
-
-![Ultra-Fast-Lane-Detection](https://github.com/user-attachments/assets/3c7b40f7-1d1d-451e-b211-20144c8ec2f0)
+[![Ultra-Fast-Lane-Detection](thumbnail.png)](https://drive.google.com/file/d/1AYHfubA9DUPGLKu_sk0-z6z_pLtcFhD7/view?usp=drive_link)
 
 # Installation
 cd ~/Ultrafast-Lane-Detection-Inference-Pytorch-
